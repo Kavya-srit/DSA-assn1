@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.Scanner;
-
 class LinkedList {
     static Node head;
 
